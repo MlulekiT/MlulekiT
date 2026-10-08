@@ -131,12 +131,12 @@ My academic work also includes **postgraduate research supervision, research met
 
 I am interested in research that is:
 
-* **Population-based** — grounded in demographic realities and population processes
-* **Evidence-driven** — using high-quality population and household data
-* **Contextual** — attentive to households, communities and social structures
-* **Methodologically rigorous** — transparent about measurement, inference and limitations
-* **Policy relevant** — connecting demographic evidence to planning and population wellbeing
-* **African-centred** — contributing to knowledge on population change and health in Sub-Saharan Africa
+* **Population-based** : grounded in demographic realities and population processes
+* **Evidence-driven** : using high-quality population and household data
+* **Contextual** : attentive to households, communities and social structures
+* **Methodologically rigorous** : transparent about measurement, inference and limitations
+* **Policy relevant** : connecting demographic evidence to planning and population wellbeing
+* **African-centred** : contributing to knowledge on population change and health in Sub-Saharan Africa
 
 ---
 
