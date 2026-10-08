@@ -18,7 +18,7 @@ My research examines population processes and the social structures within which
 * **Population health** : health and wellbeing across the life course
 * **Health inequalities** : social and demographic inequalities in health and wellbeing
 * **Households & families** : household structure, kinship and intergenerational relations
-* **Ageing & longevity** — older adults, living arrangements, disability and healthy ageing
+* **Ageing & longevity** : older adults, living arrangements, disability and healthy ageing
 * **Maternal & reproductive health** : reproductive and early-life population health
 * **Population & development** : demographic change and implications for planning, policy and development
 
