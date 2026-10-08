@@ -4,7 +4,7 @@
 
 **Senior Lecturer in Population Studies & Demography | North-West University, South Africa**
 
-I am a population scientist working at the intersection of **demography, population health and social inequalities**, with a particular interest in how population change, households and social contexts shape health and wellbeing across the life course in **South Africa and Sub-Saharan Africa**.
+I am a population scientist and demographer whose research examines how **demographic change, household contexts and social inequalities shape population health** across the life course in **South Africa and Sub-Saharan Africa**.
 
 My research examines population processes and the social structures within which they occur — from **fertility, mortality and migration** to **ageing, households, disability, health inequalities and healthy longevity**.
 
