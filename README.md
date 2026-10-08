@@ -1,12 +1,12 @@
 # Dr Mluleki Tsawe
 
-### Population Studies & Demography · Population Health · Demographic Methods
+### Population Studies and Demography · Population Health · Demographic Methods
 
-**Senior Lecturer in Population Studies & Demography | North-West University, South Africa**
+**Senior Lecturer in Population Studies and Demography | North-West University, South Africa**
 
 I am a population scientist and demographer whose research examines how **demographic change, household contexts and social inequalities shape population health** across the life course in **South Africa and Sub-Saharan Africa**.
 
-My research examines population processes and the social structures within which they occur — from **fertility, mortality and migration** to **ageing, households, disability, health inequalities and healthy longevity**.
+My research examines population processes and the social structures within which they occur, from **fertility, mortality and migration** to **ageing, households, disability, health inequalities, and healthy longevity**.
 
 > **Population health across the life course in Sub-Saharan Africa.**
 
@@ -14,13 +14,13 @@ My research examines population processes and the social structures within which
 
 ## 🔬 Research interests
 
-* **Population dynamics** — fertility, mortality, migration, ageing, urbanisation, population structure and demographic change
-* **Population health** — health and wellbeing across the life course
-* **Health inequalities** — social and demographic inequalities in health and wellbeing
-* **Households & families** — household structure, kinship and intergenerational relations
+* **Population dynamics** : fertility, mortality, migration, ageing, urbanisation, population structure and demographic change
+* **Population health** : health and wellbeing across the life course
+* **Health inequalities** : social and demographic inequalities in health and wellbeing
+* **Households & families** : household structure, kinship and intergenerational relations
 * **Ageing & longevity** — older adults, living arrangements, disability and healthy ageing
-* **Maternal & reproductive health** — reproductive and early-life population health
-* **Population & development** — demographic change and implications for planning, policy and development
+* **Maternal & reproductive health** : reproductive and early-life population health
+* **Population & development** : demographic change and implications for planning, policy and development
 
 ---
 
@@ -40,7 +40,7 @@ I work primarily with large-scale population and household datasets, including:
 
 `Stata` · `R` · `RStudio` · `SAS`
 
-My GitHub repositories contain **research code, analytical workflows, teaching resources and reproducible materials** for population and health research.
+My GitHub repositories contain **research code, analytical workflows, teaching resources, and reproducible materials** for population and health research.
 
 ---
 
@@ -64,7 +64,7 @@ Current and emerging work includes:
 
 ## 🎓 Academic & professional
 
-**Senior Lecturer — Population Studies & Demography**
+**Senior Lecturer | Population Studies and Demography**
 North-West University, Mahikeng Campus, South Africa
 
 **Research focus:** Population health across the life course in Sub-Saharan Africa
@@ -83,6 +83,18 @@ My academic work also includes **postgraduate research supervision, research met
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square\&logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square\&logo=researchgate\&logoColor=white)](https://www.researchgate.net/profile/Mluleki-Tsawe-2)
 [![North-West University](https://img.shields.io/badge/NWU-Academic%20Profile-6C3D91?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe)
+[![PHRE](https://img.shields.io/badge/PHRE-Population%20%26%20Health%20Research%20Entity-00889C?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-and-health)
+
+https://humanities.nwu.ac.za/population-and-health
+## 📚 Academic profiles
+
+[![Website](https://img.shields.io/badge/Website-mlulekit.github.io-6C3D91?style=flat-square\&logo=google-chrome\&logoColor=white)](https://mlulekit.github.io/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0580--5508-A6CE39?style=flat-square\&logo=orcid\&logoColor=white)](https://orcid.org/0000-0002-0580-5508)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square\&logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square\&logo=researchgate\&logoColor=white)](https://www.researchgate.net/profile/Mluleki-Tsawe-2)
+[![North-West University](https://img.shields.io/badge/NWU-Academic%20Profile-6C3D91?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe)
+[![PHRE](https://img.shields.io/badge/PHRE-Population%20%26%20Health%20Research%20Entity-00889C?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-and-health)
+
 
 ---
 
