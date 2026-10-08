@@ -85,17 +85,6 @@ My academic work also includes **postgraduate research supervision, research met
 [![North-West University](https://img.shields.io/badge/NWU-Academic%20Profile-6C3D91?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe)
 [![PHRE](https://img.shields.io/badge/PHRE-Population%20%26%20Health%20Research%20Entity-00889C?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-and-health)
 
-https://humanities.nwu.ac.za/population-and-health
-## 📚 Academic profiles
-
-[![Website](https://img.shields.io/badge/Website-mlulekit.github.io-6C3D91?style=flat-square\&logo=google-chrome\&logoColor=white)](https://mlulekit.github.io/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0580--5508-A6CE39?style=flat-square\&logo=orcid\&logoColor=white)](https://orcid.org/0000-0002-0580-5508)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square\&logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square\&logo=researchgate\&logoColor=white)](https://www.researchgate.net/profile/Mluleki-Tsawe-2)
-[![North-West University](https://img.shields.io/badge/NWU-Academic%20Profile-6C3D91?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe)
-[![PHRE](https://img.shields.io/badge/PHRE-Population%20%26%20Health%20Research%20Entity-00889C?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-and-health)
-
-
 ---
 
 ## 🧰 Research toolkit
