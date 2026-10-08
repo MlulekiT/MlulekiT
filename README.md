@@ -4,9 +4,9 @@
 
 **Senior Lecturer in Population Studies & Demography | North-West University, South Africa**
 
-I am a population scientist working at the intersection of **demography, population health and social inequalities**, with a particular interest in how population change and social contexts shape health and wellbeing across the life course in **South Africa and Sub-Saharan Africa**.
+I am a population scientist working at the intersection of **demography, population health and social inequalities**, with a particular interest in how population change, households and social contexts shape health and wellbeing across the life course in **South Africa and Sub-Saharan Africa**.
 
-My research examines population processes and the social structures within which they occur — from **fertility, mortality and population dynamics** to **households, ageing, disability, health inequalities and healthy longevity**.
+My research examines population processes and the social structures within which they occur — from **fertility, mortality and migration** to **ageing, households, disability, health inequalities and healthy longevity**.
 
 > **Population health across the life course in Sub-Saharan Africa.**
 
@@ -14,13 +14,13 @@ My research examines population processes and the social structures within which
 
 ## 🔬 Research interests
 
-* **Population dynamics** — fertility, mortality, migration, ageing, urbanisation and population structure
+* **Population dynamics** — fertility, mortality, migration, ageing, urbanisation, population structure and demographic change
 * **Population health** — health and wellbeing across the life course
-* **Health inequalities** — social and demographic inequalities in health
+* **Health inequalities** — social and demographic inequalities in health and wellbeing
 * **Households & families** — household structure, kinship and intergenerational relations
 * **Ageing & longevity** — older adults, living arrangements, disability and healthy ageing
 * **Maternal & reproductive health** — reproductive and early-life population health
-* **Population & development** — demographic change and implications for planning and policy
+* **Population & development** — demographic change and implications for planning, policy and development
 
 ---
 
@@ -40,7 +40,7 @@ I work primarily with large-scale population and household datasets, including:
 
 `Stata` · `R` · `RStudio` · `SAS`
 
-My GitHub repositories contain code, analytical workflows, teaching resources and reproducible materials related to population and health research.
+My GitHub repositories contain **research code, analytical workflows, teaching resources and reproducible materials** for population and health research.
 
 ---
 
@@ -50,15 +50,15 @@ My research is increasingly organised around a broader population-health perspec
 
 **Population change → households & social context → health across the life course → inequalities → population wellbeing**
 
-This includes work on:
+Current and emerging work includes:
 
 * changing household and family structures
-* ageing within households
-* disability and healthy longevity
+* ageing within households and intergenerational relations
+* disability, health and healthy longevity
 * population and health inequalities
 * maternal, reproductive and early-life outcomes
 * demographic change in South Africa and Sub-Saharan Africa
-* the use of population data for research, planning and policy
+* population-based evidence for research, planning and policy
 
 ---
 
@@ -69,9 +69,10 @@ North-West University, Mahikeng Campus, South Africa
 
 **Research focus:** Population health across the life course in Sub-Saharan Africa
 
-**Population Dynamics Sub-programme:** Population and Health Research Entity (PHRE), Faculty of Humanities, North-West University
+**Population Dynamics Sub-programme**
+Population and Health Research Entity (PHRE), Faculty of Humanities, North-West University
 
-I am also involved in postgraduate research supervision, research methods teaching, academic service, peer review and interdisciplinary population research.
+My academic work also includes **postgraduate research supervision, research methods teaching, academic service, peer review and interdisciplinary population research**.
 
 ---
 
@@ -81,40 +82,46 @@ I am also involved in postgraduate research supervision, research methods teachi
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0580--5508-A6CE39?style=flat-square\&logo=orcid\&logoColor=white)](https://orcid.org/0000-0002-0580-5508)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square\&logo=google-scholar\&logoColor=white)](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square\&logo=researchgate\&logoColor=white)](https://www.researchgate.net/profile/Mluleki-Tsawe-2)
+[![North-West University](https://img.shields.io/badge/NWU-Academic%20Profile-6C3D91?style=flat-square\&logoColor=white)](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe)
 
 ---
 
 ## 🧰 Research toolkit
 
 ```text
-Population Studies & Demography
-        │
-        ├── Population dynamics
-        ├── Population health
-        ├── Health inequalities
-        ├── Households & families
-        ├── Ageing & longevity
-        └── Population & development
-                    │
-                    ▼
-          Population-based data
-                    │
-          ┌─────────┼─────────┐
-          ▼         ▼         ▼
-        DHS       Census     GHS/MICS
-          │         │         │
-          └─────────┼─────────┘
-                    ▼
-            Quantitative methods
-                    │
-       ┌────────────┼────────────┐
-       ▼            ▼            ▼
-     Stata           R        Demographic
-                             methods
-                    │
-                    ▼
-          Evidence for research,
-          planning & policy
+                    POPULATION STUDIES & DEMOGRAPHY
+                                  │
+             ┌────────────────────┼────────────────────┐
+             ▼                    ▼                    ▼
+     Population dynamics    Population health    Social context
+             │                    │                    │
+       Fertility             Health across       Households &
+       Mortality             the life course     families
+       Migration             Inequalities        Kinship
+       Ageing                Disability          Intergenerational
+       Population            Healthy longevity   relations
+       structure
+             │                    │                    │
+             └────────────────────┼────────────────────┘
+                                  ▼
+                       Population-based data
+                                  │
+              ┌───────────────────┼───────────────────┐
+              ▼                   ▼                   ▼
+             DHS                Census             GHS/MICS
+              │                   │                   │
+              └───────────────────┼───────────────────┘
+                                  ▼
+                         Quantitative methods
+                                  │
+              ┌───────────────────┼───────────────────┐
+              ▼                   ▼                   ▼
+            Stata                 R              Demographic
+                                                  methods
+                                  │
+                                  ▼
+                     Evidence for research,
+                       planning & policy
 ```
 
 ---
