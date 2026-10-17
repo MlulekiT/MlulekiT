@@ -61,7 +61,7 @@ A Stata command for estimating neonatal, post-neonatal, infant, child and under-
 
 ### 🌐 [Personal website](https://mlulekit.github.io/)
 
-My academic website brings together my research interests, publications, projects, software tools, teaching activities and academic profiles.
+My personal website brings together my research interests, publications, projects, software tools, teaching activities and academic profiles.
 
 ### 🧰 [Research code and demographic methods](https://github.com/MlulekiT?tab=repositories)
 
@@ -165,7 +165,7 @@ I welcome collaborations involving:
 
 If you are working with population-based data or developing research at the intersection of **demography, health and social change**, I would be pleased to connect.
 
-📫 Connect with me through my [academic website](https://mlulekit.github.io/), [ORCID](https://orcid.org/0000-0002-0580-5508), [Google Scholar](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dr-mluleki-tsawe-8969ab155/), [ResearchGate](https://www.researchgate.net/profile/Mluleki-Tsawe-2), [GitHub](https://github.com/MlulekiT) or [North-West University academic profile](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe).
+📫 Connect with me through my [personal website](https://mlulekit.github.io/), [ORCID](https://orcid.org/0000-0002-0580-5508), [Google Scholar](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dr-mluleki-tsawe-8969ab155/), [ResearchGate](https://www.researchgate.net/profile/Mluleki-Tsawe-2), [GitHub](https://github.com/MlulekiT) or [North-West University academic profile](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe).
 
 ---
 
