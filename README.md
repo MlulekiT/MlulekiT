@@ -35,11 +35,11 @@ My research examines population processes and the social structures within which
 
 ## 📊 Data and methods
 
-I work primarily with large-scale population and household datasets to investigate demographic processes, health outcomes and social inequalities.
+I work primarily with large-scale population and household datasets to investigate demographic processes, health outcomes, and social inequalities.
 
 **Data**
 
-`DHS` · `MICS` · `Census` · `General Household Survey (GHS)` · `Community Survey` · Other national and international population datasets
+`DHS` · `MICS` · `Census` · `General Household Survey (GHS)` · `Community Survey` · `Other national and international population datasets`
 
 **Methods**
 
@@ -73,7 +73,7 @@ Explore my GitHub repositories for research code, analytical workflows, quantita
 
 My research is increasingly organised around a broader **life-course population-health framework**:
 
-**Population change → Households and social context → Health across the life course → Inequalities → Population wellbeing**
+**Population change → households and social context → health across the life course → inequalities → population wellbeing**
 
 Current and emerging work includes:
 
@@ -85,7 +85,7 @@ Current and emerging work includes:
 - Demographic change in South Africa and Sub-Saharan Africa.
 - Population-based evidence for research, planning and policy.
 
-This framework connects demographic processes with the household and social environments in which people live, age and experience health and wellbeing.
+This framework connects demographic processes with the household and social environments in which people live, age, and experience health and wellbeing.
 
 ---
 
@@ -99,13 +99,13 @@ North-West University, Mahikeng Campus, South Africa
 **Population Dynamics Sub-programme**  
 Population and Health Research Entity (PHRE), Faculty of Humanities, North-West University
 
-My academic work includes **postgraduate research supervision, research methods teaching, scholarly publishing, academic service, peer review, quantitative demographic research and interdisciplinary collaboration**.
+My academic work includes **postgraduate research supervision, research methods teaching, scholarly publishing, academic service, peer review, quantitative demographic research, and interdisciplinary collaboration**.
 
 ---
 
 ## 🧭 Conceptual overview
 
-My research brings together population processes, health outcomes and the household and social contexts that shape people's experiences across the life course.
+My research brings together population processes, health outcomes, and the household and social contexts that shape people's experiences across the life course.
 
 ```text
                  POPULATION STUDIES & DEMOGRAPHY
@@ -135,7 +135,7 @@ My research brings together population processes, health outcomes and the househ
                               │
           ┌───────────────────┼───────────────────┐
           ▼                   ▼                   ▼
-        Stata                  R           Demographic methods
+        Stata                 R           Demographic methods
                               │
                               ▼
                   Evidence for research,
@@ -169,7 +169,7 @@ If you are working with population-based data or developing research at the inte
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MlulekiT&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub profile statistics" height="165" />
@@ -183,5 +183,5 @@ If you are working with population-based data or developing research at the inte
 ---
 
 <p align="center">
-  <strong>Population health across the life course in Sub-Saharan Africa.</strong>
+  Population health across the life course in Sub-Saharan Africa.
 </p>
