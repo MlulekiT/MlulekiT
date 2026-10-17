@@ -59,13 +59,13 @@ My GitHub repositories contain **research code, analytical workflows, demographi
 
 A Stata command for estimating neonatal, post-neonatal, infant, child and under-five mortality rates from DHS Birth Recode datasets using the DHS synthetic cohort life-table methodology.
 
-### 🌐 [Academic website](https://mlulekit.github.io/)
+### 🌐 [Personal website](https://mlulekit.github.io/)
 
 My academic website brings together my research interests, publications, projects, software tools, teaching activities and academic profiles.
 
 ### 🧰 [Research code and demographic methods](https://github.com/MlulekiT?tab=repositories)
 
-Explore my GitHub repositories for research code, analytical workflows, quantitative methods and reproducible materials related to population studies and health research.
+Explore my GitHub repositories for research code, analytical workflows, quantitative methods, and reproducible materials related to population studies and health research.
 
 ---
 
