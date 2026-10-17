@@ -1,4 +1,4 @@
-# Dr Mluleki Tsawe
+# Mluleki Tsawe, PhD
 
 ### Population Studies and Demography · Population Health · Demographic Methods
 
@@ -49,7 +49,7 @@ I work primarily with large-scale population and household datasets, including:
 
 ### Software
 
-`Stata` · `R` · `RStudio` · `SAS`
+`Stata` · `RStudio` · `SAS`
 
 My GitHub repositories contain **research code, analytical workflows, teaching resources, demographic methods, software tools, and reproducible materials** for population and health research.
 
