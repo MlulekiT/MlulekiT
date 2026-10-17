@@ -1,4 +1,4 @@
-# Mluleki Tsawe, PhD
+# Dr Mluleki Tsawe
 
 ### Population Studies and Demography · Population Health · Demographic Methods
 
@@ -63,7 +63,7 @@ A Stata command for estimating neonatal, post-neonatal, infant, child and under-
 
 My academic website brings together my research interests, publications, projects, software tools, teaching activities and academic profiles.
 
-### 🧰 [Research code and demographic methods]([https://github.com/MlulekiT](https://github.com/MlulekiT?tab=repositories))
+### 🧰 [Research code and demographic methods](https://github.com/MlulekiT?tab=repositories)
 
 Explore my GitHub repositories for research code, analytical workflows, quantitative methods and reproducible materials related to population studies and health research.
 
