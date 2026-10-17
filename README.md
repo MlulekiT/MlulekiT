@@ -47,11 +47,11 @@ I work primarily with large-scale population and household datasets to investiga
 
 **Software & environment**
 
-![Stata](https://img.shields.io/badge/Stata-1A5276?style=flat-square&logo=stata&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)
-![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logo=quarto&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0072C6?style=flat-square&logo=sas&logoColor=white)
+[![Stata](https://img.shields.io/badge/Stata-1A5276?style=flat-square&logo=stata&logoColor=white)](https://www.stata.com/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)](https://posit.co/downloads)
+[![SPSS](https://img.shields.io/badge/SPSS-059669?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com/products/spss-statistics)
+[![SAS](https://img.shields.io/badge/SAS-0072C6?style=flat-square&logo=sas&logoColor=white)](https://www.sas.com/en_us/home.html)
 
 My GitHub repositories contain **research code, analytical workflows, demographic methods, software tools, teaching resources and reproducible research materials** for population and health research.
 
