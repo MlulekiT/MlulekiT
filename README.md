@@ -127,7 +127,7 @@ My academic work includes <strong>postgraduate research supervision, research me
 
 ## 🧭 Conceptual overview
 
-<p align="left">
+<p align="justify">
 My research brings together population processes, health outcomes, and the household and social contexts that shape people's experiences across the life course.
 </p>
 
@@ -136,7 +136,7 @@ My research brings together population processes, health outcomes, and the house
                               │
           ┌───────────────────┼───────────────────┐
           ▼                   ▼                   ▼
-  Population dynamics  Population health    Sociallity          the life course     families
+  Population dynamics  Population health    Sociality the life course families
       Migration          Inequalities        Kinship
       Ageing             Disability          Intergenerational
       Population         Healthy longevity   relations
