@@ -13,7 +13,7 @@
 [![NWU](https://img.shields.io/badge/NWU-Academic%20Profile-6C3D91?style=flat-square&logoColor=white)](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe)
 [![PHRE](https://img.shields.io/badge/PHRE-Population%20%26%20Health%20Research%20Entity-00889C?style=flat-square&logoColor=white)](https://humanities.nwu.ac.za/population-and-health)
 
-I am a population scientist and demographer whose research examines how **demographic change, household contexts and social inequalities shape population health** across the life course in **South Africa and Sub-Saharan Africa**.
+I am a population scientist whose research examines how **demographic change, household contexts and social inequalities shape population health** across the life course in **South Africa and Sub-Saharan Africa**.
 
 My research examines population processes and the social structures within which they occur, from **fertility, mortality and migration** to **ageing, households, disability, health inequalities and healthy longevity**. My work sits at the intersection of population studies, demography and public health, using population-based data to understand health and wellbeing within changing social and demographic contexts.
 
