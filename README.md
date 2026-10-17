@@ -192,19 +192,6 @@ If you are working with population-based data or developing research at the inte
 
 ---
 
-## 📈 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MlulekiT&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub profile statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MlulekiT&layout=compact&theme=transparent&hide_border=true" alt="Most-used programming languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MlulekiT&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
 <p align="center">
   Population health across the life course in Sub-Saharan Africa.
 </p>
