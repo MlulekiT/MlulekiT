@@ -1,4 +1,4 @@
-# Dr Mluleki Tsawe
+# Mluleki Tsawe, PhD
 
 ### Population Studies and Demography · Population Health · Demographic Methods
 
@@ -43,11 +43,11 @@ I work primarily with large-scale population and household datasets to investiga
 
 **Methods**
 
-`Demographic estimation` · `Population projections` · `Multilevel modelling` · `Survival analysis` · `Spatial analysis` · `Descriptive analysis` · `Quantitative social research`
+`Demographic estimation` · `Multilevel modelling` · `Survival analysis` · `Spatial analysis` · `Descriptive analysis` · `Quantitative social research`
 
 **Software**
 
-`Stata` · `R` · `RStudio` · `SAS`
+`Stata` · `RStudio` · `SAS`
 
 My GitHub repositories contain **research code, analytical workflows, demographic methods, software tools, teaching resources and reproducible research materials** for population and health research.
 
@@ -166,6 +166,19 @@ I welcome collaborations involving:
 If you are working with population-based data or developing research at the intersection of **demography, health and social change**, I would be pleased to connect.
 
 📫 Connect with me through my [personal website](https://mlulekit.github.io/), [ORCID](https://orcid.org/0000-0002-0580-5508), [Google Scholar](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dr-mluleki-tsawe-8969ab155/), [ResearchGate](https://www.researchgate.net/profile/Mluleki-Tsawe-2), [GitHub](https://github.com/MlulekiT) or [North-West University academic profile](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe).
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MlulekiT&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub profile statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MlulekiT&layout=compact&theme=transparent&hide_border=true" alt="Most-used programming languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MlulekiT&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
