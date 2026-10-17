@@ -127,7 +127,7 @@ My academic work includes <strong>postgraduate research supervision, research me
 
 ## 🧭 Conceptual overview
 
-<p align="justify">
+<p align="left">
 My research brings together population processes, health outcomes, and the household and social contexts that shape people's experiences across the life course.
 </p>
 
