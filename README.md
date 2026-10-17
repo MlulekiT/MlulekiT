@@ -105,7 +105,14 @@ North-West University, Mahikeng Campus, South Africa
 **Population Dynamics Sub-programme**  
 Population and Health Research Entity (PHRE), Faculty of Humanities, North-West University
 
-My academic work includes **postgraduate supervision, research methods teaching, scholarly publishing, academic service, peer review, quantitative demographic research, and interdisciplinarytats.vercel.app/api?username=MlulekiT&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Statistics" width="48%" />
+My academic work includes **postgraduate supervision, research methods teaching, scholarly publishing, academic service, peer review, quantitative demographic research, and interdisciplinary population research**.
+
+---
+
+## 📈 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MlulekiT&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Statistics" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MlulekiT&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
@@ -172,7 +179,7 @@ I welcome collaborations involving:
 
 If you are working with population-based data or developing research at the intersection of **demography, health and social change**, I would be pleased to connect.
 
-📫 Connect with me via my Website, ORCID, Google Scholar, LinkedIn, ResearchGate, GitHub, or North-West University academic profile.
+📫 Connect with me via my [Website](https://mlulekit.github.io), [ORCID](https://orcid.org/0000-0002-0580-5508), [Google Scholar](https://scholar.google.com/citations?user=1L3IWv4AAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/dr-mluleki-tsawe-8969ab155/), [ResearchGate](https://www.researchgate.net/profile/Mluleki-Tsawe-2), [GitHub](https://github.com/MlulekiT), or [North-West University academic profile](https://humanities.nwu.ac.za/population-studies-and-demography/mluleki-tsawe).
 
 ---
 
